@@ -1,2 +1,2 @@
 # Starter-Projects
-From these projects i started my web developments journey
+From these projects I started my web developments journey.
